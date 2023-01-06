@@ -113,7 +113,15 @@
     margin-top: 100px;
    
    
-    padding: 76px 188px 76px 188px;
+    /* padding: 76px 188px 76px 188px; */
+    display: flex;
+    
+    align-items: center;
+    /* justify-content: center; */
+    height: 250px;
+    width: 865px;
+    margin: 130px auto;
+    background-color: #FFF4D6
 }
 .email{
     border-right: none;
@@ -138,8 +146,8 @@
 
 }
 footer h3{
-    font-family: 'Lobster';
-                    font-style: normal;
+    font-family: Skate-Bold;
+                    
                     font-weight: 400;
                     font-size: 36px;
                     text-align: center;
